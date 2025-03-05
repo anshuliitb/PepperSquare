@@ -19,6 +19,6 @@ After Cloning PepperSquare folder from Git repository run following commands:
   For getting Strapi Admin access and manipulating temporary database fields:
   1)	Go to http://localhost:1337/admin/auth/login
   2)	Enter following details: <br />
-        Name: Anshul Mahor <br />
-        email: `anshulmahoriitb@gmail.com` <br />
-        password: `pepperSquare1`
+        &nbsp; Name: Anshul Mahor <br />
+        &nbsp; email: `anshulmahoriitb@gmail.com` <br />
+        &nbsp; password: `pepperSquare1`
